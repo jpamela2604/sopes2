@@ -50,7 +50,7 @@ int main( int argc, char **argv )
       while ( i < length ) {
 
 
-                fptr = fopen("/var/proyecto/200915428_files.log","a");
+                fptr = fopen("/var/proyecto/201222673_files.log","a");
 
         
 
